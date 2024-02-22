@@ -1,3 +1,4 @@
 # Algorithms
 My solutions of various algorithmic problems
-1. Valid Parentheses
+LeetCode problems:
+  1. Two Sum
